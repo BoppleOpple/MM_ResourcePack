@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/stone"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 0}, "model": "block/stone"},
+        { "predicate": {"custom_model_data": 1}, "model": "block/arm_hms"}
+    ]
+}

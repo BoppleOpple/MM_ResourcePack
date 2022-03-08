@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:oak_leaves"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 0}, "model": "block/oak_leaves"},
+        { "predicate": {"custom_model_data": 1}, "model": "block/deku_flower"},
+        { "predicate": {"custom_model_data": 2}, "model": "block/deku_flower_gold"}
+    ]
+}

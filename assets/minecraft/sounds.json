@@ -1,0 +1,182 @@
+{
+  "termina_field": {
+    "sounds": [
+      {
+	 "name": "custommusic/termina_field",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "clocktown_day1": {
+    "sounds": [
+      {
+	 "name": "custommusic/clocktown_day1",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "clocktown_day1_orchestrated": {
+    "sounds": [
+      {
+	 "name": "custommusic/clocktown_day1_orchestrated",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "clocktown_day2": {
+    "sounds": [
+      {
+	 "name": "custommusic/clocktown_day2",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "clocktown_day3": {
+    "sounds": [
+      {
+	 "name": "custommusic/clocktown_day3",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "clocktown_finalhours": {
+    "sounds": [
+      {
+	 "name": "custommusic/clocktown_finalhours",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "fairy_fountain": {
+    "sounds": [
+      {
+	 "name": "custommusic/fairy_fountain",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "inside_house": {
+    "sounds": [
+      {
+	 "name": "custommusic/inside_house",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "minigame": {
+    "sounds": [
+      {
+	 "name": "custommusic/minigame",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "morning": {
+    "sounds": [
+      {
+	 "name": "custommusic/morning",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "potion_shop": {
+    "sounds": [
+      {
+	 "name": "custommusic/potion_shop",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "shooting_gallery": {
+    "sounds": [
+      {
+	 "name": "custommusic/shooting_gallery",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "shop": {
+    "sounds": [
+      {
+	 "name": "custommusic/shop",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "underground": {
+    "sounds": [
+      {
+	 "name": "custommusic/underground",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "song_of_healing": {
+    "sounds": [
+      {
+	 "name": "custommusic/song_of_healing",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "milk_bar": {
+    "sounds": [
+      {
+	 "name": "custommusic/milk_bar",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "mayors_house": {
+    "sounds": [
+      {
+	 "name": "custommusic/mayors_house",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "mayors_house_orchestrated": {
+    "sounds": [
+      {
+	 "name": "custommusic/mayors_house_orchestrated",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "astral_observatory": {
+    "sounds": [
+      {
+	 "name": "custommusic/astral_observatory",
+         "stream": "true"
+      }
+    ]
+  },
+
+  "astral_observatory_orchestrated": {
+    "sounds": [
+      {
+	 "name": "custommusic/astral_observatory_orchestrated",
+         "stream": "true"
+      }
+    ]
+  }
+}
+  

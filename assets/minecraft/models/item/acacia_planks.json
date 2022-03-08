@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:acacia_planks"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 0}, "model": "block/acacia_planks"},
+        { "predicate": {"custom_model_data": 1}, "model": "block/happy_mask_salesman_pack"}
+    ]
+}

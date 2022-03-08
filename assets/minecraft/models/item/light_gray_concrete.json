@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:light_gray_concrete"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 0}, "model": "block/light_gray_concrete"},
+        { "predicate": {"custom_model_data": 1}, "model": "block/blank"}
+    ]
+}
